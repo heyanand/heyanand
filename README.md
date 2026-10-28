@@ -1,7 +1,7 @@
 
 ## Hemanand Rajendran👋
 
-**Lead AI Engineer & Cloud Architect at Google Cloud**  
+**AI Engineer & Cloud Architect at Google Cloud**  
 *Architecting enterprise Agentic AI platforms, sovereign LLM inference environments, and multimodal systems.*
 
 
